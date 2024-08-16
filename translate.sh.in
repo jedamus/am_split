@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+
+# erzeugt Montag, 25. November 2019 07:05 (C) 2019 von Leander Jedamus
+# modifiziert Mittwoch, 14. August 2024 10:21 von Leander Jedamus
+# modifiziert Montag, 12. August 2024 17:53 von Leander Jedamus
+# modifiziert Dienstag, 26. November 2019 16:05 von Leander Jedamus
+# modifiziert Montag, 25. November 2019 11:58 von Leander Jedamus
+
+translate.pl --read_config --dir=po --project=@PROJECT@ --version=@VERSION@
+
+# vim:ai sw=2
+

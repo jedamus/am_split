@@ -1,0 +1,2 @@
+CPPFLAGS="$CPPFLAGS -pipe -std=c89 -ansi"
+#CPPFLAGS="$CPPFLAGS -pedantic"
